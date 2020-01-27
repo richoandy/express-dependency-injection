@@ -20,7 +20,7 @@
     "knex": "^0.20.7",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "mongoose": "^4.13.20",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "node-cron": "^2.0.3",
     "randomstring": "^1.1.5"
